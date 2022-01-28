@@ -1,2 +1,2 @@
-# BoldSlider
+# SillySlider
 Created with CodeSandbox
